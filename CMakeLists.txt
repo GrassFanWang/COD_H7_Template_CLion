@@ -79,7 +79,7 @@ target_compile_definitions(${CMAKE_PROJECT_NAME} PRIVATE
 )
 
 target_link_directories(${CMAKE_PROJECT_NAME} PRIVATE
-        E:/COD_H7_Template_CLion/DSP
+        DSP
 )
 # Add linked libraries
 target_link_libraries(${CMAKE_PROJECT_NAME}
